@@ -9,4 +9,6 @@ This project implements a simple ATM (Automated Teller Machine) interface in Jav
 
 
 **OUTPUT**
+
+
 ![image](https://github.com/LEKHASELVARAJU/atm/assets/108514177/5abbf199-26a7-495a-a92a-93a73860f66d)
