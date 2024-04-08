@@ -6,5 +6,7 @@ This project implements a simple ATM (Automated Teller Machine) interface in Jav
 -> Check the balance of a specific account.
 -> Deposit funds into an account.
 -> Withdraw funds from an account, with validation for sufficient balance.
+
+
 **OUTPUT**
 ![image](https://github.com/LEKHASELVARAJU/atm/assets/108514177/5abbf199-26a7-495a-a92a-93a73860f66d)
